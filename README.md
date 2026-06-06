@@ -1,69 +1,69 @@
 # Relatorio ACBr Yuri
 
-A comprehensive project for generating and managing reports using ACBr (Automação Comercial Brasil) components.
+Um projeto abrangente para gerar e gerenciar relatórios usando componentes ACBr (Automação Comercial Brasil).
 
-## About
+## Sobre
 
-This repository contains tools and utilities for creating, processing, and generating reports with ACBr integration. ACBr is a library that facilitates integration with Brazilian fiscal and commercial systems.
+Este repositório contém ferramentas e utilitários para criar, processar e gerar relatórios com integração ACBr. ACBr é uma biblioteca que facilita a integração com sistemas fiscais e comerciais brasileiros.
 
-## Features
+## Funcionalidades
 
-- Report generation and management
-- ACBr component integration
-- Data processing utilities
-- Easy-to-use interface for report creation
+- Geração e gerenciamento de relatórios
+- Integração de componentes ACBr
+- Utilitários de processamento de dados
+- Interface fácil de usar para criação de relatórios
 
-## Getting Started
+## Começando
 
-### Prerequisites
+### Pré-requisitos
 
 - Git
-- ACBr Library (if applicable)
-- Required dependencies as per your project
+- Biblioteca ACBr (se aplicável)
+- Dependências necessárias conforme seu projeto
 
-### Installation
+### Instalação
 
-1. Clone the repository:
+1. Clone o repositório:
 ```bash
 git clone https://github.com/Yuri-Dev1905/relatorio-ACBr-yuri.git
 cd relatorio-ACBr-yuri
 ```
 
-2. Install dependencies:
+2. Instale as dependências:
 ```bash
-# Add installation instructions specific to your project
+# Adicione instruções de instalação específicas para seu projeto
 ```
 
-## Usage
+## Uso
 
 ```bash
-# Add usage examples here
+# Adicione exemplos de uso aqui
 ```
 
-## Project Structure
+## Estrutura do Projeto
 
 ```
 relatorio-ACBr-yuri/
 ├── README.md
-└── [Add your project structure here]
+└── [Adicione a estrutura do seu projeto aqui]
 ```
 
-## Contributing
+## Contribuindo
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contribuições são bem-vindas! Sinta-se livre para enviar um Pull Request.
 
-## License
+## Licença
 
-[Add your license information here - e.g., MIT, Apache 2.0, etc.]
+[Adicione suas informações de licença aqui - ex: MIT, Apache 2.0, etc.]
 
-## Author
+## Autor
 
 **Yuri-Dev1905**
 
-## Support
+## Suporte
 
-For issues, questions, or suggestions, please open an issue on [GitHub Issues](https://github.com/Yuri-Dev1905/relatorio-ACBr-yuri/issues).
+Para problemas, dúvidas ou sugestões, abra uma issue em [GitHub Issues](https://github.com/Yuri-Dev1905/relatorio-ACBr-yuri/issues).
 
 ---
 
-*Last updated: 2026-06-06*
+*Última atualização: 2026-06-06*
